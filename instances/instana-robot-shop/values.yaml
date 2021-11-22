@@ -22,7 +22,7 @@ robot-shop:
   # Provide your key and set the endpoint
   eum:
     key: HrCYfudaR6uB-m70rCoomw
-    url: http://52.116.51.73:2999/
+    url: http://52.116.51.73:2999
     #url: https://eum-us-west-2.instana.io
 
   # Pod Security Policy
