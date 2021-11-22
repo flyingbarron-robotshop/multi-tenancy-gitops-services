@@ -28,7 +28,7 @@ instana-agent:
     # listenAddress: *
 
     # agent.endpointHost is the hostname of the Instana server your agents will connect to.
-    endpointHost: ec2-3-22-248-37.us-east-2.compute.amazonaws.com
+    endpointHost: 52.116.51.73 
     # agent.endpointPort is the port number (as a String) of the Instana server your agents will connect to.
     endpointPort: 1444
 
